@@ -55,7 +55,7 @@ Video Anomaly Detection is all about spotting weird or unexpected stuff in video
 ## 🌐 **Demo**  
 
 Check out the working demo below:  
-![Demo Screenshot](https://github.com/LexViper/video-anomaly-detection/raw/main/images/demo-screenshot.png)  
+![Demo Screenshot](https://github.com/LexViper/Video-Anomaly-Detection/blob/main/Output/Report.png)  
 
 ---
 
